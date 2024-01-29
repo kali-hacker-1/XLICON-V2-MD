@@ -23,9 +23,9 @@ import {
 ⍟────────────────⍟
 *©Salman Ahmand*
 ⍟────────────────⍟
-*_Konnichiwa! Its XLICON-MD A_* 
+*_Konnichiwa! Its shadow-MD A_* 
 *_Multi-Device Whatsapp BOT_*
-*_Recoded By Salman Ahmad And Abraham Dwamena_*
+*_Recoded By SID_*
 ⍟────────────────⍟
                                     
  ▀▄▀ █░░ █ █▀▀ █▀█ █▄░█  
@@ -39,7 +39,7 @@ import {
 ╰┬────────────────⦿
 ┌┤
 ┃
-┃ *_Founder_*: Salman Ahmad 
+┃ *_Founder_*: sID 
 ┃ *_Bot Name_*: ${botname}
 ┃ *_Mode_*: %mode
 ┃ *_HOST_*: kali Linix
@@ -57,7 +57,7 @@ import {
 ┃
 ┃ *_Name_*: %name
 ┃ *_Gold_*: %credit
-┃ *_Role_*: XLICON-MD-TESTER
+┃ *_Role_*: SHADOW-MD-TESTER
 ┃ *_Level_*: %level [ %xp4levelup Xp For Levelup]
 ┃ *_Xp_*: %exp / %maxexp
 ┃ *_Total Xp_*: %totalexp
