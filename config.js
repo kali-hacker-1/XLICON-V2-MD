@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['918767585726', 'Mizu Sama', true], 
-  ['', '', true],
+  ['916300793116', 'Sid Sama', true],
   ['', '', true], 
   ['', '', true],
   ['', '', true],
